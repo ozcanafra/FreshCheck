@@ -1,0 +1,10 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python önbelleği
+__pycache__/
+*.pyc
+
+# Gizli bilgiler
+.env
